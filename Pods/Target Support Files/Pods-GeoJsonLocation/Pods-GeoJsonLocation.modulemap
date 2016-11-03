@@ -1,0 +1,6 @@
+framework module Pods_GeoJsonLocation {
+  umbrella header "Pods-GeoJsonLocation-umbrella.h"
+
+  export *
+  module * { export * }
+}
